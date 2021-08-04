@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "854909096021",
+    "project_id": "scriptgo-5b289",
+    "storage_bucket": "scriptgo-5b289.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854909096021:android:22869132b330985ac504dc",
+        "android_client_info": {
+          "package_name": "com.example.scriptgov20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854909096021-8ah9912h7kosl6hp7uvr71k10d9am2kn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM0mCnFoD8Y5a4tixF5-JXudcvBV8yH_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854909096021-8ah9912h7kosl6hp7uvr71k10d9am2kn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

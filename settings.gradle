@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "ScriptGov2.0"
